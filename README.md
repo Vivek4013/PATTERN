@@ -1,0 +1,2 @@
+# PATTERN
+Right angle  triangle
